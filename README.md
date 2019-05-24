@@ -1,7 +1,1 @@
-# robofriends
-Tutorial for udemy course - React
-To run the project:
-
-1. Clone this repo
-2. Run `npm install`
-3. Run `npm start`
+going to try and use a starwars api to populate for a robo hash api and make robots. 
